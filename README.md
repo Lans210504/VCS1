@@ -45,13 +45,13 @@ Kemudian kaliam akan diarahkan pada halaman untuk membuat repository baru sepert
 Lalu kalian buat folder di localdisk koomputer kalian
 
 
-![image](https://user-images.githubusercontent.com/115879313/196103175-1872f3cf-90fe-409a-89f6-c75dca19dd5a.png)
+![SharedScreenshot13](https://user-images.githubusercontent.com/115879313/196110314-3f3b6d4b-6d08-44d5-aef9-e7184570cc27.png)
 
 
 5.jika sudah kalian klik kanan pada folder tersebut lalu klik Git Bash
 
 
-![image](https://user-images.githubusercontent.com/115879313/196103234-70cf03b6-41fd-4d02-a6e5-9fd698cd6465.png)
+![SharedScreenshot14](https://user-images.githubusercontent.com/115879313/196110574-8a62671d-4582-4072-bf9f-ca6306d5c398.png)
 
 7.Buat folder dengan menggunakan perintah dan buka folder tersebut
 
@@ -106,6 +106,9 @@ $git remote add origin https://github.com/Lans210504/VCS1.git
 $git push -u origin main
 
 Dan kita bisa cek di repository langsung pada website github image
+
+![SharedScreenshot12](https://user-images.githubusercontent.com/115879313/196109935-33669bad-e85a-41c9-873f-a8d400abfbbb.png)
+
 
 
 
