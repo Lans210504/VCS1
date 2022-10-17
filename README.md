@@ -51,7 +51,9 @@ $mkdir latihan1
 
 $cd latihan
 
-image
+![image](![SharedScreenshot](https://user-images.githubusercontent.com/115879313/196104995-9fa0dcfe-957d-4018-949b-e468a17692e8.png)
+.png)
+
 
 8.dan tambahkan file README.md dengan menggunakan perintah
 
