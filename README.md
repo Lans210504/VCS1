@@ -43,7 +43,7 @@ Lalu kalian buat folder di localdisk koomputer kalian
 jika sudah kalian klik kanan pada folder tersebut lalu klik Git Bash
 
 
-![Gambar 5](screenshot/ss5.png)
+![Gambar 5](screenshot/ss7.png)
 
 Buat folder dengan menggunakan perintah dan buka folder tersebut
 
