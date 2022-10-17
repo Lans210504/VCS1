@@ -38,12 +38,12 @@ Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombo
 Lalu kalian buat folder di localdisk koomputer kalian
 
 
-![Gambar](screenshot/ss5.png)
+![image](https://user-images.githubusercontent.com/115879313/196103175-1872f3cf-90fe-409a-89f6-c75dca19dd5a.png)
 
 5.jika sudah kalian klik kanan pada folder tersebut lalu klik Git Bash
 
 
-![Gambar](screenshot/ss7.png)
+![image](https://user-images.githubusercontent.com/115879313/196103234-70cf03b6-41fd-4d02-a6e5-9fd698cd6465.png)
 
 7.Buat folder dengan menggunakan perintah dan buka folder tersebut
 
