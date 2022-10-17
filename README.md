@@ -74,7 +74,7 @@ $echo "#VCS1" >> README.md
 
 $git init
 
-image
+![SharedScreenshot7](https://user-images.githubusercontent.com/115879313/196107520-1a15d678-19b8-4d7a-9417-956bf3c22c29.png)
 
 10.Untuk menambahkan file yang baru saja dibuat tersebut menggunakan perintah
 
