@@ -20,7 +20,8 @@ $ git config --global user.email "email anda"
 Langkah kedua kalian bisa login ke dalam website github, Setelah kalian login akan muncul tampilan dashboard dari github tersebut
 
 
-![Gambar](screenshot/lnkedss2.jpg)
+![SharedScreenshot2](https://user-images.githubusercontent.com/115879313/196106179-070139c5-4394-431c-a1e3-63a11a3c8658.png)
+
 
 
 
@@ -29,8 +30,14 @@ Langkah kedua kalian bisa login ke dalam website github, Setelah kalian login ak
 Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru.
 
 
+![SharedScreenshot3](https://user-images.githubusercontent.com/115879313/196106343-005e36cf-b9e8-447e-84c3-43521400ee0a.png)
 
-![image](https://user-images.githubusercontent.com/115879313/196103899-f48ba2ec-546f-491e-a560-6ea6eb929454.png)
+
+Kemudian kaliam akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini
+
+
+![SharedScreenshot4](https://user-images.githubusercontent.com/115879313/196106564-4e5ec664-cb46-4924-93cb-3ca57c614a8f.png)
+
 
 
 4.Buat Folder
@@ -39,6 +46,7 @@ Lalu kalian buat folder di localdisk koomputer kalian
 
 
 ![image](https://user-images.githubusercontent.com/115879313/196103175-1872f3cf-90fe-409a-89f6-c75dca19dd5a.png)
+
 
 5.jika sudah kalian klik kanan pada folder tersebut lalu klik Git Bash
 
@@ -57,9 +65,10 @@ $cd latihan
 
 8.dan tambahkan file README.md dengan menggunakan perintah
 
-$echo "#LatihanVCS" >> README.md
+$echo "#VCS1" >> README.md
 
-image
+![image](https://user-images.githubusercontent.com/115879313/196107103-7c4c44c7-74d2-4113-aa9a-d9f5cfc0e0fa.png)
+
 
 9.kemudian buat repository lokal menggunakan perintah
 
