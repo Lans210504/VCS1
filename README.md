@@ -80,31 +80,26 @@ $git init
 
 $git add README.md
 
-image
+![image](https://user-images.githubusercontent.com/115879313/196108007-91d770cd-81d9-4924-b0ad-fe5cdfc9e279.png)
 
-11.Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah
-
-$git add README.md
-
-image
 
 12.Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah
 
 $git commit -m "first commit"
 
-image
+![SharedScreenshot9](https://user-images.githubusercontent.com/115879313/196108440-e4b6a02d-9269-4070-892b-b5edddf6b075.png)
 
 13.kemudian gunakan perintah
 
 $git branch -M main
 
-image
+![SharedScreenshot10](https://user-images.githubusercontent.com/115879313/196108892-795cf612-08c6-4fbe-994f-d1bd916abd22.png)
 
 14.Setelah itu menambahkan remote repository. remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. dengan menggunakan perintah
 
 $git remote add origin https://github.com/Lans210504/VCS1.git
 
-image
+![SharedScreenshot11](https://user-images.githubusercontent.com/115879313/196109381-453c6f74-338a-447a-8bbd-95e6d8ce1549.png)
 
 15.Dan untuk mengirim perubahan pada local repository ke server gunakan perintah
 
