@@ -30,7 +30,7 @@ Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombo
 
 
 
-![Gambar](screenshot/ss4.png)
+![image](https://user-images.githubusercontent.com/115879313/196103899-f48ba2ec-546f-491e-a560-6ea6eb929454.png)
 
 
 4.Buat Folder
