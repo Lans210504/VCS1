@@ -13,3 +13,5 @@ $ git config --global user.email "email anda"
 
 
 ![Gambar 1](screenshot/ss1.png)
+![image](https://user-images.githubusercontent.com/115879313/196095872-a50af3f0-ea41-47f8-99c5-d07e5b845f63.png)
+
