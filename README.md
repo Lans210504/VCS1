@@ -50,5 +50,7 @@ Buat folder dengan menggunakan perintah dan buka folder tersebut
 $mkdir latihan1
 
 $cd latihan
+![image](https://user-images.githubusercontent.com/115879313/196099957-a6c5bdd7-54cf-43ee-a738-6579249834be.png)
+
 
 
