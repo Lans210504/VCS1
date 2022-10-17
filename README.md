@@ -90,7 +90,7 @@ image
 
 Setelah itu menambahkan remote repository. remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. dengan menggunakan perintah
 
-$git remote add origin 
+$git remote add origin https://github.com/Lans210504/VCS1.git
 
 image
 
