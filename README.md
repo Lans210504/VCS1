@@ -40,61 +40,62 @@ Lalu kalian buat folder di localdisk koomputer kalian
 
 ![Gambar](screenshot/ss5.png)
 
-jika sudah kalian klik kanan pada folder tersebut lalu klik Git Bash
+5.jika sudah kalian klik kanan pada folder tersebut lalu klik Git Bash
 
 
 ![Gambar](screenshot/ss7.png)
 
-Buat folder dengan menggunakan perintah dan buka folder tersebut
+7.Buat folder dengan menggunakan perintah dan buka folder tersebut
 
 $mkdir latihan1
 
 $cd latihan
 
 image
-dan tambahkan file README.md dengan menggunakan perintah
+
+8.dan tambahkan file README.md dengan menggunakan perintah
 
 $echo "#LatihanVCS" >> README.md
 
 image
 
-kemudian buat repository lokal menggunakan perintah
+9.kemudian buat repository lokal menggunakan perintah
 
 $git init
 
 image
 
-Untuk menambahkan file yang baru saja dibuat tersebut menggunakan perintah
+10.Untuk menambahkan file yang baru saja dibuat tersebut menggunakan perintah
 
 $git add README.md
 
 image
 
-Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah
+11.Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah
 
 $git add README.md
 
 image
 
-Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah
+12.Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah
 
 $git commit -m "first commit"
 
 image
 
-kemudian gunakan perintah
+13.kemudian gunakan perintah
 
 $git branch -M main
 
 image
 
-Setelah itu menambahkan remote repository. remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. dengan menggunakan perintah
+14.Setelah itu menambahkan remote repository. remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. dengan menggunakan perintah
 
 $git remote add origin https://github.com/Lans210504/VCS1.git
 
 image
 
-Dan untuk mengirim perubahan pada local repository ke server gunakan perintah
+15.Dan untuk mengirim perubahan pada local repository ke server gunakan perintah
 
 $git push -u origin main
 
