@@ -51,5 +51,54 @@ $mkdir latihan1
 
 $cd latihan
 
+image
+dan tambahkan file README.md dengan menggunakan perintah
+
+$echo "#LatihanVCS" >> README.md
+
+image
+
+kemudian buat repository lokal menggunakan perintah
+
+$git init
+
+image
+
+Untuk menambahkan file yang baru saja dibuat tersebut menggunakan perintah
+
+$git add README.md
+
+image
+
+Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah
+
+$git add README.md
+
+image
+
+Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah
+
+$git commit -m "first commit"
+
+image
+
+kemudian gunakan perintah
+
+$git branch -M main
+
+image
+
+Setelah itu menambahkan remote repository. remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. dengan menggunakan perintah
+
+$git remote add origin 
+
+image
+
+Dan untuk mengirim perubahan pada local repository ke server gunakan perintah
+
+$git push -u origin main
+
+Dan kita bisa cek di repository langsung pada website github image
+
 
 
