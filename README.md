@@ -16,6 +16,7 @@ $ git config --global user.email "email anda"
 
 
 2.Login Github
+
 Langkah kedua kalian bisa login ke dalam website github, Setelah kalian login akan muncul tampilan dashboard dari github tersebut
 
 
@@ -24,6 +25,7 @@ Langkah kedua kalian bisa login ke dalam website github, Setelah kalian login ak
 
 
 3.Buat Repository
+
 Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru.
 
 
@@ -32,7 +34,21 @@ Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombo
 
 
 4.Buat Folder
+
 Lalu kalian buat folder di localdisk koomputer kalian
 
 
 ![Gambar 4](screenshot/ss5.png)
+
+jika sudah kalian klik kanan pada folder tersebut lalu klik Git Bash
+
+
+![Gambar 5](screenshot/ss5.png)
+
+Buat folder dengan menggunakan perintah dan buka folder tersebut
+
+$mkdir latihan1
+
+$cd latihan
+
+
